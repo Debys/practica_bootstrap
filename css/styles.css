@@ -1,0 +1,57 @@
+*{
+	font-family: 'Rubik' !important;
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	padding-top: 5rem;
+	background: rgba(193, 193, 193, 1);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(226, 226, 226, 1) 100%);
+}
+img {
+	box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+}
+#introduction, #videos, #discography, #about, #awards {
+	padding: 0px 1.5vw;
+}
+
+.title {
+	text-align: center;
+	padding: 25px 0px;
+}
+.btn-primary {
+	background-color: gray !important;
+	border-color: gray;
+
+}
+.btn-primary:hover {
+	background-color: lightgrey;
+	border-color: gray;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: grey;
+}
+footer {
+	border-color: gray;
+	padding-top: 3.5rem;
+	padding-bottom: 2rem;
+}
+.card-body {
+	box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+}
+.card {
+	margin: 20px 10px;
+}
+
+#videos iframe {
+	border: 1px solid;
+	border-color: black;
+	box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+
+}
+
+
+ 
